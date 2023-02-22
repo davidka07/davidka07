@@ -2,7 +2,6 @@
 
 ## Я Давид, Front-End Developer
 
-<hr>
 <br>
 
 ## Языки :
@@ -14,8 +13,6 @@
 <img align=left src="img/node.svg">
 <img align=left src="img/sass.svg">
 
-<br>
-<br>
 <hr>
 <br>
 
@@ -24,6 +21,11 @@
 <img align=left src="img/gulp.svg">
 <img align=left src="img/figma.svg">
 <img align=left src="img/github.svg">
+
+<hr>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davida07&show_icons=true&theme=radical)
 
 
 
